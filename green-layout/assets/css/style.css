@@ -40,7 +40,7 @@ header{
     color: var(--even-bg);
 }
 #section-one-image{
-    background-image: url("/assets/images/banner.jpg");
+    background-image: url("../images/banner.jpg");
     height: 400px;
     padding-top: 80px;
     background-size: cover;
